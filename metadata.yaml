@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '31536'
     url: http://www.gutenberg.org/2009/agents/31536
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25731#Ancient-Egyptian-and-Greek-Looms
 gutenberg_bookshelf:
 - Manufacturing
 - Technology
