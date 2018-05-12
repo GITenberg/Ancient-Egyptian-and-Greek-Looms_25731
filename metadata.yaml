@@ -1,0 +1,31 @@
+_repo: Ancient-Egyptian-and-Greek-Looms_25731
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Roth, H. Ling (Henry Ling)
+    alias: Roth, Henry Ling
+    birthdate: 1855
+    deathdate: 1925
+    gutenberg_agent_id: '31536'
+    url: http://www.gutenberg.org/2009/agents/31536
+description: ''
+gutenberg_bookshelf:
+- Manufacturing
+- Technology
+gutenberg_issued: '2008-06-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25731'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Weaving'
+- !lcsh 'Looms'
+- !lcc 'TS'
+title: Ancient Egyptian and Greek Looms
+url: http://www.gutenberg.org/ebooks/25731
